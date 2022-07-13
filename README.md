@@ -16,7 +16,7 @@ Meningkatkan interaksi antara pengguna twitter dan engagement rate untuk Influen
 ### Install
 Clone this project
 ```bash
-> git clone github.com/c0rz/TwitterMutual.git
+> git clone https://github.com/c0rz/TwitterMutual.git
 > cd TwitterMutual
 ```
 ---
